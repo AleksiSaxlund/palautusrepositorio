@@ -1,5 +1,3 @@
 Start, Stop, Continue, More of, Less of Wheel retrospektiivitekniikassa piirretään ympyrä julisteelle tai valkotaululle tms. Tämä ympyrä jaetaan viiteen nimen tekniikan nimen mukaiseen osaan. Retrospektiivin johtaja alkaa sitten kyselemään kommentteja osallistujilta ja ne laitetaan asianmukaiseen osioon. Esimerkiksi "Start"-osioon kommennetja asioista, joita pitäisi alkaa tekemään. Isommissa ryhmissä ryhmä jaetaan pienempiin ryhmiin ja jokainen pienryhmä tekee oman ympyränsä. Sitten ympyrät laitetaan kiertämään ryhmiä ja kommenteista keskustellaan.
 
 Glad, Sad, Mad tekniikassa kerätään jäseniltä kommentteja, jotka luokitellaan kolmeen nimen mukaiseen joukkoon. Ensin jokainen kirjoittaa omat kommenttinsa lappuun. Seuraavaksi osallistujat vuorollaan laittavat kommenttilappunsa taululle ja selittävät mitä jokainen lappu tarkoittaa. Laput laitetaan taululle ryhmittäin Glad, Sad tai mad ryhmiin. Seuraavaksi äänestetään mistä asioista kesustellaan lisää. Esimerkiksi jokaisella jäsenellä 5 ääntä. Sitten retrospektiivin johtaja johtaa keskustelua kommenteista laskevassa järjestyksessä saatujen äänten mukaan.
-
-muutos
